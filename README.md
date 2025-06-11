@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/99f636e1-5ab2-457d-bba8-16946920876f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99f636e1-5ab2-457d-bba8-16946920876f.gif" alt="GIF animado" style="max-width: 100%; height: auto;">
+</p>
 
 <h1 align="center">Hi, I'm Michael! 👋</h1>
 
@@ -24,7 +26,10 @@ de dados e ferramentas de análise de dados.
 |-------| ---------|
 |Fundamentos de Ethical Hacking | Instrutor em Curso de Informática
 
-![image](https://github.com/user-attachments/assets/281b7e95-421a-4a25-9064-b39806ceb32f)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zabriduel/zabriduel/output/github-contribution-grid-snake-dark.svg" alt="GIF de exemplo" />
+</p>
+
 
 
 ## 📫 Como me encontrar
