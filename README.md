@@ -9,6 +9,8 @@ Possuo experiência prática em suporte técnico, gestão de sistemas, configura
 automação de processos. Conhecimentos sólidos em linguagens de programação, banco
 de dados e ferramentas de análise de dados.
 
+Tenho focado meus estudos em React, Jira e integração com APIs REST e RESTful, pois acredito que o domínio dessas tecnologias é essencial para atuar com eficiência em projetos web modernos e colaborar em ambientes de desenvolvimento ágil.
+
 ## 🛠️Tech Stak
 ![image](https://github.com/user-attachments/assets/6645b1d7-77dd-4184-8547-9451e7deee40)
 ![image](https://github.com/user-attachments/assets/501db8e4-4b99-41c8-aaf4-b031198538c7)
