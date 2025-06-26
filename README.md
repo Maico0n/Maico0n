@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/99f636e1-5ab2-457d-bba8-16946920876f.gif" alt="GIF animado" style="max-width: 100%; height: auto;">
-</p>
-
 <h1 align="center">Hi, I'm Michael! 👋</h1>
 
 
